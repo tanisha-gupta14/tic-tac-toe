@@ -11,7 +11,7 @@ public class TicTacToe{
 
             }
         }
-        printBoard(gameboard);
+        
         char player='X';
         boolean gameOver=false;
         int moves=0;
